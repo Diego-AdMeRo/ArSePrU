@@ -1,0 +1,6 @@
+**/docs/credenciales
+**/__pycache__
+/Pipfile
+/Pipfile.lock
+/requirements.txt
+/driver

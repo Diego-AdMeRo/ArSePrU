@@ -1,0 +1,17 @@
+{
+  "Estudiante": {
+    "Nombre": "",
+    "Carrera": ""
+  },
+  "Plataforma": {
+    "Url": "https://hadar.unipiloto.edu.co/limesurvey/index.php/752585?newtest=Y&lang=es"
+  },
+  "Google Sheets": {
+    "Url": "",
+    "Token": "",
+    "Credentials": "",
+    "Linea": 2,
+    "Semana": 1
+  },
+  "WebDriver": { "Path": "../driver/chromedriver.exe" }
+}
